@@ -1,4 +1,4 @@
-# Graph Theory
+# Graphs Theory
 
 This repository contains some of most used graphs theory algorithms such graph traversing, shortest path, maximum flow problem, minimum spanning trees and others.
 
